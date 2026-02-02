@@ -1,1 +1,3 @@
 Hello, this is the second file!
+
+Hello, another text in another branch.
